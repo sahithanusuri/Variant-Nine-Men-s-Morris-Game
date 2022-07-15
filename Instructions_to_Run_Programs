@@ -1,6 +1,5 @@
 Running directions for the algorithm.
 
-
 python <file_name.py> <file1.txt> <file2.txt> <depth>
 
 file_name.py -> Program you want to run (MiniMaxOpening.py, MiniMaxGame.py, ABOpening.py, ABGame.py, MiniMaxOpeningBlack.py, MiniMaxGameBlack.py,  MiniMaxOpeningImproved.py,  MiniMaxGameImproved.py)
